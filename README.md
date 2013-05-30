@@ -1,6 +1,6 @@
 Collection of My Work 
 ==============
-By David Holmes
+By David Holmes<br/>
 	This is a collection of my work at Bluelink Marketing
 	** <b>For Internal Purposes only </b>**
 <h2>Ga Stats</h2>
@@ -9,3 +9,10 @@ This was the first project I worked on at Bluelink it.I had to create a way to s
 websites managed or owned and operated GA Stats all on one list along with how much we earned
 I also had the table colored cordinated by what sites was doing bad and what sites was doing good.
 I had to use the GA Stats to create this 
+
+<h2>Domain Parking Page</h2>
+<img src="domain_parking.png">
+At out company we have a ton of parked domain pages that are not being used
+To better make use of them we created a park page that returns our ads when you do a search
+or shows high value category ads incase a user is interested in one at the time of the visit.
+The whole page was designed to attract clicks as much as possible.
