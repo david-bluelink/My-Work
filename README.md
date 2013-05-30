@@ -16,3 +16,10 @@ At out company we have a ton of parked domain pages that are not being used
 To better make use of them we created a park page that returns our ads when you do a search
 or shows high value category ads incase a user is interested in one at the time of the visit.
 The whole page was designed to attract clicks as much as possible.
+
+<h2>State Of Network</h2>
+<img src="state_of_network.png">
+Stats are important. A large part of my job is making sure that we can see all of our stats.<br/>
+These stats are the state of the network. This is a breakdown of what our system is pushing out on a daily baises  
+
+
