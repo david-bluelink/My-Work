@@ -23,3 +23,10 @@ Stats are important. A large part of my job is making sure that we can see all o
 These stats are the state of the network. This is a breakdown of what our system is pushing out on a daily baises  
 
 
+
+<h2>Geo Map Tool</h2>
+<img src="geo_map_tool.png">
+This was one of my cooler projects. We are storing where all of our ad queires come from and I had some free time and decided to put them 
+all on a map and display them by country. 
+
+
