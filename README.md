@@ -32,6 +32,7 @@ all on a map and display them by country.
 <h2>Ad Switcher For Wordpress Plugin</h2>
 <img src="ad_switcher_for_wordpress.png">
 <img src="ad_switcher_for_wordpress_example.png">
+<img src="ad_switcher_wordpress_plugin.png">
 This was a wordpress plugin I worked on so that way we can show our ads along with some of our partners ads on our search pages 
 
 
