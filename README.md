@@ -27,6 +27,12 @@ These stats are the state of the network. This is a breakdown of what our system
 <h2>Geo Map Tool</h2>
 <img src="geo_map_tool.png">
 This was one of my cooler projects. We are storing where all of our ad queires come from and I had some free time and decided to put them 
-all on a map and display them by country. 
+all on a map and display them by country.
+
+<h2>Ad Switcher For Wordpress Plugin</h2>
+<img src="ad_switcher_for_wordpress.png">
+<img src="ad_switcher_for_wordpress_example.png">
+This was a wordpress plugin I worked on so that way we can show our ads along with some of our partners ads on our search pages 
+
 
 
